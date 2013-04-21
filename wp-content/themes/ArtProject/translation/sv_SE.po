@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-06 07:36+0100\n"
+"PO-Revision-Date: 2008-12-06 07:36+0100\n"
+"Last-Translator: Anna <thatgirl@annalinnea.net>\n"
+"Language-Team: Anna <vintagemaniac@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;ngettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Documents and Settings\\Lolita Loco\\Mina dokument\\[WORDPRESS]\\Projekt - theme releases\\blank\n"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/404.php:5
+msgid "Error 404 - Not Found"
+msgstr "Felmeddelande 404"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/404.php:7
+msgid "The page you were looking for has either been deleted or moved."
+msgstr "Sidan har antingen blivit borttagen eller flyttad."
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/404.php:9
+msgid "Do you want to search for it"
+msgstr "Vill du söka efter den"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:8
+msgid "Category"
+msgstr "Kategori"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:11
+msgid "Posts tagged with"
+msgstr "Inlägg med etiketten"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:14
+#: releases\blank/archive.php:17
+#: releases\blank/archive.php:20
+msgid "Archive for"
+msgstr "Arkiv för"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:23
+msgid "Author Archive "
+msgstr "Författare"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:26
+msgid "Blog archives "
+msgstr "Bloggarkiv"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:43
+#: releases\blank/index.php:17
+msgid "Read the rest of this entry &raquo;"
+msgstr "Fortsätt läsa  &raquo;"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:48
+#: releases\blank/index.php:22
+#: releases\blank/single.php:21
+msgid "Tags: "
+msgstr "Etiketter: "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:49
+#: releases\blank/index.php:23
+#: releases\blank/single.php:23
+msgid "Category: "
+msgstr "Kategori: "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:51
+#: releases\blank/index.php:25
+msgid "Comments (0)"
+msgstr "Kommentera"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:51
+#: releases\blank/index.php:25
+msgid "Comments (1)"
+msgstr "Kommentera (1)"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:51
+#: releases\blank/index.php:25
+msgid "Comments (%)"
+msgstr "Kommentera (%)"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:51
+#: releases\blank/index.php:25
+msgid "Comments closed"
+msgstr "Kommentarer stängda"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:53
+#: releases\blank/functions.php:23
+#: releases\blank/functions.php:36
+#: releases\blank/image.php:47
+#: releases\blank/index.php:27
+#: releases\blank/single.php:45
+msgid "Edit"
+msgstr "Redigera"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:61
+#: releases\blank/index.php:35
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Äldre inlägg"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:62
+#: releases\blank/index.php:36
+msgid "Newer Entries &raquo;"
+msgstr "Nyare inlägg &raquo;"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:67
+#: releases\blank/index.php:41
+msgid "The page you`re looking for doesn`t exist"
+msgstr "Kunde inte hitta det du sökte!"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/archive.php:69
+#: releases\blank/index.php:43
+msgid "Do you want to search for it?"
+msgstr "Vill du söka efter den?"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:9
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Inlägget är lösenordskyddat"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:42
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:69
+msgid "No responses to"
+msgstr "Inga svar på"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:69
+msgid "One response to"
+msgstr "Ett svar på"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:69
+msgid "% responses to"
+msgstr "% svar på"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:79
+#: releases\blank/functions.php:18
+msgid "Your comment is awaiting moderation"
+msgstr "Din kommentar väntar på att bli godkänd"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:83
+#: releases\blank/functions.php:23
+msgid "at"
+msgstr "klockan"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:107
+msgid "Comments are closed"
+msgstr "Kommentarer stängda"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:119
+msgid "Cancel reply"
+msgstr "Avbryt svar"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:123
+msgid "You must be"
+msgstr "Du måste vara"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:123
+msgid "logged in"
+msgstr "inloggad som"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:123
+msgid "to post a comment"
+msgstr "för att kunna kommentera"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:130
+msgid "Logged in as"
+msgstr "Inloggad som"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:130
+msgid "Log out"
+msgstr "Logga ut"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:134
+msgid "Your email is never shared"
+msgstr "Din epostadress visas aldrig"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:135
+msgid "Required fields are marked <span class=\"required\">*</span>"
+msgstr "Obligatoriska fält är markerade med <span class=\"required\">*</span>"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:138
+msgid "Name"
+msgstr "Namn"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:143
+msgid "Email"
+msgstr "E-post"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:148
+msgid "Website"
+msgstr "Webbadress"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/comments.php:161
+msgid "Send"
+msgstr "Skicka"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/footer.php:2
+msgid "is proudly powered by"
+msgstr "drivs med"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/footer.php:2
+msgid "Entries (RSS)"
+msgstr "Inlägg (RSS)"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/footer.php:2
+msgid "Comments (RSS)"
+msgstr "Kommentarer (RSS)"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/footer.php:3
+msgid "Page generated in"
+msgstr "Sidan laddades på"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/footer.php:3
+msgid "seconds"
+msgstr "sekunder"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/functions.php:15
+msgid "says"
+msgstr "skriver"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/functions.php:27
+msgid "Reply"
+msgstr "Svara"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/functions.php:33
+msgid "Trackback from"
+msgstr "Trackback från"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/header.php:8
+msgid "Category &raquo; "
+msgstr "Kategori &raquo; "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/header.php:11
+msgid "Tag &raquo; "
+msgstr "Etikett &raquo; "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/header.php:14
+msgid "Search results &raquo; "
+msgstr "Sökresultat  &raquo; "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:25
+msgid "Tags "
+msgstr "Etiketter "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:27
+msgid "This attachment was posted"
+msgstr "Denna bilaga publicerades"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:28
+#: releases\blank/single.php:25
+msgid "at "
+msgstr "klockan "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:32
+msgid "You can "
+msgstr "Du kan"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:32
+msgid "leave a response "
+msgstr "lämna en kommentar"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:32
+#: releases\blank/single.php:31
+msgid "or"
+msgstr "eller"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:32
+#: releases\blank/image.php:36
+#: releases\blank/single.php:31
+#: releases\blank/single.php:35
+msgid "from your own site"
+msgstr "från din egen hemsida eller blogg"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:36
+msgid "Responses are currently closed, but you can"
+msgstr "Kommentarer är avständgda för inlägget, men du kan"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:40
+msgid " You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Du kan lämna en kommentar på inlägget, trackbacks är dock avstängda."
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/image.php:44
+msgid "Both comments and pings are currently closed."
+msgstr "Kommentarer och trackbacks är avstängda för detta inlägg."
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/page.php:20
+msgid "Edit this page"
+msgstr "Redigera sidan"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/searchform.php:3
+msgid "Search"
+msgstr "Sök"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:16
+msgid "<strong>Pages:</strong>"
+msgstr "<strong>Sidor:</strong>"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:25
+msgid "This entry was posted"
+msgstr "Inlägget postades"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:27
+msgid "You can follow any responses to this entry via"
+msgstr "Du kan följa kommentarerna till inlägget via "
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:31
+msgid "You can"
+msgstr "Du kan"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:31
+msgid "leave a comment"
+msgstr "lämna en kommentar"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:31
+#: releases\blank/single.php:35
+msgid "trackback"
+msgstr "lämna en trackback"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:35
+msgid "Comments are currently closed, but you can"
+msgstr "Kommentarer är avstängda för inlägget, men du kan"
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:39
+msgid "You can skip to the end to leave a comment. Trackbacks are currently not allowed."
+msgstr "Du kan lämna en kommentar på inlägget, trackbacks är dock avstängda."
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:43
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Kommentarer och trackbacks är avstängda för detta inlägg."
+
+#: C:\Documents
+#: and Settings\Lolita Loco\Mina dokument\[WORDPRESS]\Projekt -
+#: theme releases\blank/single.php:55
+msgid "Sorry, no posts matched your criteria"
+msgstr "Tyvärr, hittade inga inlägg"
+
+#~ msgid "Pages:"
+#~ msgstr "Sidor:"
+#~ msgid "No comments"
+#~ msgstr "Inga kommentarer"
+#~ msgid "One comment"
+#~ msgstr "En kommentar"
+
+#, fuzzy
+#~ msgid "% comments"
+#~ msgstr "% kommentarer"
+#~ msgid "Category:"
+#~ msgstr "Kategori: "
+#~ msgid "and is filed under"
+#~ msgstr "och tillhör kategori/er"
+#~ msgid "Comment by"
+#~ msgstr "Kommentar av"
+#~ msgid "Leave a reply"
+#~ msgstr "Lämna en kommentar"
+#~ msgid "Reply to %s"
+#~ msgstr "Svara %s"
+
+#, fuzzy
+#~ msgid "Submit "
+#~ msgstr "Skicka"
+#~ msgid "<span class=\"required\">*</span>"
+#~ msgstr "<span class=\"required\">*</span>"
+#~ msgid "Allowed markup:"
+#~ msgstr "Tillåten html:"
+
+# As in "date". Ex: "Posted ON Feb 3"
+#~ msgid "on"
+#~ msgstr "den"
+#~ msgid "Comment on"
+#~ msgstr "Kommentera"
+#~ msgid "% comments on"
+#~ msgstr "% kommentarer på"
+#~ msgid "&laquo; Older comments"
+#~ msgstr "&laquo; Äldre kommentarer"
+#~ msgid "Newer comments &raquo;"
+#~ msgstr "Nyare kommentarer &raquo;"
+#~ msgid "You must be logged in to post a comment"
+#~ msgstr "Du måste vara inloggad för att kunna kommentera"
+#~ msgid "(required)"
+#~ msgstr "(obligatoriskt)"
+#~ msgid "(will not be published)"
+#~ msgstr "(visas ej)"
+#~ msgid "URL"
+#~ msgstr "URL"
+#~ msgid "Comments are off for this post"
+#~ msgstr "Kommentarer avstängda"
+#, fuzzy
+#~ msgid "Tags"
+#~ msgstr "Etiketter:"
+
+#, fuzzy
+#~ msgid "Couldn`t "
+#~ msgstr "Det du letade efter hittades inte"
+
+#, fuzzy
+#~ msgid "The page you"
+#~ msgstr "Det du letade efter hittades inte"
+
